@@ -1,0 +1,8 @@
+C:\Users\Game On dp\source\repos\Dictionaty\Dictionaty\bin\Debug\Dictionaty.exe.config
+C:\Users\Game On dp\source\repos\Dictionaty\Dictionaty\bin\Debug\Dictionaty.exe
+C:\Users\Game On dp\source\repos\Dictionaty\Dictionaty\bin\Debug\Dictionaty.pdb
+C:\Users\Game On dp\source\repos\Dictionaty\Dictionaty\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Game On dp\source\repos\Dictionaty\Dictionaty\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Game On dp\source\repos\Dictionaty\Dictionaty\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Game On dp\source\repos\Dictionaty\Dictionaty\obj\Debug\Dictionaty.exe
+C:\Users\Game On dp\source\repos\Dictionaty\Dictionaty\obj\Debug\Dictionaty.pdb
